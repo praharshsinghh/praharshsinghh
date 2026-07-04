@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=PRAHARSH%20SINGH&fontSize=45&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=security%20researcher%20%7C%20CEH%20certified&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=breaking+stuff+to+understand+it;probably+debugging+something+rn;curious+by+default;building%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=breaking+stuff+legally;probably+debugging+something;sleeping" alt="Typing SVG" />
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ```bash
 $ whoami
-into cybersecurity, always poking at how things break
+into cybersecurity
 
 $ certs
-CEH v13 — Certified Ethical Hacker
+CEH v13 - Certified Ethical Hacker
 
 $ currently
 figuring out SIEMs, sharpening DSA, messing with VAPT tools
